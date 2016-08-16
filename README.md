@@ -64,7 +64,14 @@ Now that it was all working I made it look a little better by adding some style 
 favicon).
 
 
-## This was kind of easy
+## That was easy ##
 Developing and testing this way is relatively normal for me since I spend a fair amount of time working 
 with docker building and packaging applications see my github [The Infrastructure Problem](https://github.com/codemarc/twip). 
+
+You can see the deployed app running via Pivotal Web Services at: 
+## [http://hello-world-pm.cfapps.io/](http://hello-world-pm.cfapps.io/) ##
+
+<br/><br/><br/>
+
+
 
